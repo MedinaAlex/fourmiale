@@ -10,3 +10,6 @@ Veillez à avoir installé ACO-Pants
 la variable ```iter``` permet de changer le nombre d'itération effectué.
 
 la variable ```nbBars``` permet de choisir le nombre de bars a résoudre.
+
+### Attention
+En cas de double tableau (problème selon la version), mettre en commentaire le ```plt.show()```
